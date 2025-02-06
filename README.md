@@ -1,2 +1,2 @@
-# LamgChain_Practices
-LamgChain_Practices
+# LangChain_Practices
+LangChain_Practices
